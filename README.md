@@ -12,4 +12,8 @@ func main() {
     fmt.Println("hello world")
 fmt.Println("DIT")
 //sukki
+
+//we are doing diploma
+
+
 }
